@@ -14,6 +14,7 @@ Como Executar:
 * Após clonar o repositório, em um Terminal execute os seguintes comandos:
 
 * iex -S mix
+* GenReport.build("gen_report.csv")
 
 Importante:
 
