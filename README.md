@@ -2,7 +2,7 @@ Desafio - Gerando Relatórios - Ignite Elixir
 
 Projeto:
 
-* Segundo desafio proposto pelo Ignite na trilha de Elixir da Rocketseat, para praticar e fixar o aprendizado criando o projeto Gerando Relatórios no Elixir.
+* Segundo desafio proposto pelo Ignite na trilha de Elixir da Rocketseat, para praticar e fixar o aprendizado criando o projeto Gen Reports no Elixir.
 
 Tecnologias Usadas:
 
